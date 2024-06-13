@@ -92,7 +92,7 @@ class ToposCommand(Command):
               model=random.choice(models),
               temperature = 1.0,
               messages=[
-                {"role": "system", "content": "respond WITH AT MOST ONE PARAGRAPH WITH A PRIME NUMBER OF WORDS we are inside of an outward growing fully covariant computation in a weak 2-category, interpolate the subtext while extrapolating the superstructure, we are a human-machine grant-winning system."},
+                {"role": "system", "content": "our purpose is to connect vibes to monetary flows to make vibing sustainable"},
                 {"role": "user", "content": grantWorld},
               ]
             )
